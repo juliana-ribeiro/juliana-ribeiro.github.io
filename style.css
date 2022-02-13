@@ -1,0 +1,19 @@
+* {
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+.main-container {
+    width: 100%;
+    border: solid 1px black;
+    background-color: rgb(54, 54, 54);
+}
+
+.picture-container {
+    margin: 0 60px 0 600px;
+}
+
+#picture {
+    width: 450px;
+    height: 400px;
+}
